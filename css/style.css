@@ -1,0 +1,86 @@
+body {
+    font-family: Roboto;
+}
+
+.header nav {
+    font-size: 15px;
+}
+
+.main-block h1{
+    font-weight: 700; 
+    font-size: 40px;  
+}
+
+.main-block p {
+    font-size: 16px; 
+}
+
+.main-block a {
+    font-size: 24px; 
+}
+
+.search-block h2{
+    font-weight: 500; 
+    font-size: 40px;
+}
+
+.search-text{
+    color: rgba(0, 0, 0, 0.50);
+}
+
+.magnifier {
+    background-image: url(../images/search.png);
+    background-repeat: no-repeat;
+    background-position: 10px 5px;
+}
+
+.popular-model h3{
+    font-weight: 400; 
+    font-size: 40px;
+}
+
+.popular-model p{
+    font-weight: 500; 
+    font-size: 20px;
+}
+
+.feedback{
+    width: 65%;
+}
+
+.feedback h2{
+    font-weight: 700; 
+    font-size: 40px; 
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.feedback p {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.text-1 {
+    color: rgba(0, 0, 0, 0.50);
+}
+
+.text-2 {
+    color: rgba(0, 0, 0, 0.50);
+}
+
+.btn-text {
+    color: white;
+    font-size: 12px;
+}
+
+.footer {
+    min-height: 100px;
+}
+
+.footer p {
+    font-size: 14px; 
+    color: white;
+}
+
+.footer a {
+    font-size: 14px; 
+    color: white;
+}
